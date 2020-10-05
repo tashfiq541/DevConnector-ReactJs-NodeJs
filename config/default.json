@@ -1,4 +1,6 @@
 {
 	"mongoURI": "mongodb+srv://tashfiq541:tashfiq541@cluster0.no78z.mongodb.net/<dbname>?retryWrites=true&w=majority",
-	"jwtSecret": "emon!@97"
+	"jwtSecret": "emon!@97",
+	"githubclientId": "3e4a2ed44b8461f874a7",
+	"githubSecret": "add9383631a1877af8fc1749a147a5b0d57b2118"
 }
